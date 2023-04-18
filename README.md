@@ -1,1 +1,5 @@
-# RobertSharp3662.github.io
+# demoHtml
+A Demo HTML Site from the Computing Fundamentals Course
+
+# Author
+Dennis Devey
